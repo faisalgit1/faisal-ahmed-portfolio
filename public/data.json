@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Wedding Photographer",
+        "img": "https://media.istockphoto.com/id/1190043570/photo/happy-wedding-photography-of-bride-and-groom-at-wedding-ceremony-wedding-tradition-sprinkled.jpg?s=1024x1024&w=is&k=20&c=dEnXwMGSpfySpEepRWDVY_c7pHyhOZpv2RG5_QggqzY=",
+        "ratings": "5",
+        "price": "300",
+        "details": "I am a photographer. I can take a lot of great photos at the wedding. You can take me for photo shoot. We will post the best photos. You can take pictures by me to remember the memories of your life"
+    },
+    {
+        "name": "Sports Photographer",
+        "img": "https://media.istockphoto.com/id/180868820/photo/cricket-batsman-about-to-strike-ball.jpg?s=612x612&w=0&k=20&c=xRiAIk3RA6cmm1FtI2S-YK8Pei9qSkqxhX-JUbTI2Cs=",
+        "ratings": "5",
+        "price": "400",
+        "details": "I know how to take a lot of photos about sports. I have been working on this for a long time, so you can hire me to take great pictures. Because I have analyzed a lot of sports images and I have been working on this for six years. So you can go to take pictures of sports"
+    },
+    {
+        "name": "Journalism Photographer",
+        "img": "https://cdn.pixabay.com/photo/2016/01/29/09/58/hands-1167619__340.jpg",
+        "ratings": "4",
+        "price": "200",
+        "details": "I am a journalism photographer. I have worked in this matter for four years. I have a lot of knowledge in this matter. I have worked for many companies so far and done news work in the country and abroad. So you can hire me as a journalism photographer."
+    },
+    {
+        "name": "Wild Photographer",
+        "img": "https://cdn.pixabay.com/photo/2018/07/31/22/08/lion-3576045__340.jpg",
+        "ratings": "4.5",
+        "price": "250",
+        "details": "I am a wildlife photographer and film-maker from India. I've shot photos and films for National Geographic and BBC(Natural History Unit).Do you want to know how to be a professional wildlife photographer? Here are some of the best ways you can make money from your wildlife photos."
+    },
+    {
+        "name": "Stylish Fashion Photography Photographer",
+        "img": "https://cdn.pixabay.com/photo/2015/06/19/09/39/lonely-814631__340.jpg",
+        "ratings": "3.5",
+        "price": "180",
+        "details": "Fashion photography is the type where you will have to capture photographs of models.I have learned a lot about fashion photography in a few days. So those of you who want to take pictures can hire me. I can take very good pictures and take pictures in many styles if you want. So hire now without delay"
+    },
+    {
+        "name": "Food Photographer",
+        "img": "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616__340.png",
+        "ratings": "3.5",
+        "price": "180",
+        "details": " I'm a food photographer and educator, a nerd for the technical stuff and obsessed with teaching others how to make food photography their career.in honor of five years of cooking, eating, learning, and photographing my food like a weirdo, I thought I'd put together a little mini tour."
+    }
+]
