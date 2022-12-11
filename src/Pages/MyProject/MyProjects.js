@@ -8,7 +8,7 @@ const MyProjects = () => {
     const [projects, setProjects] = useState([])
 
     useEffect(() => {
-        fetch('projects.json')
+        fetch('https://faisal-ahmed-portfolio-server.vercel.app/project')
             .then(res => res.json())
             .then(data => setProjects(data))
     }, [])

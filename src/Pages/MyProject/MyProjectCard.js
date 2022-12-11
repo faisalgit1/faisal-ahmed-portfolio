@@ -1,5 +1,6 @@
 import React from 'react';
 import { FaRegHeart, FaArrowRight } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 
 const MyProjectCard = ({ project }) => {
 
@@ -16,6 +17,7 @@ const MyProjectCard = ({ project }) => {
 
                 </div>
                 <div className=' px-5 mt-3'>
+                    <Link className='card-shadow monoster-fonts text-gray-500 hover:bg-[#FF014F] hover:text-white px-5 py-4 rounded-md shadow-lg text-sm absolute bottom-5 left-4  flex gap-1 items-center' to={`/project/${project._id}`}>Project Details <FaArrowRight /></Link>
                     <a href={link} target="_blank" className='card-shadow monoster-fonts text-gray-500 hover:bg-[#FF014F] hover:text-white px-5 py-4 rounded-md shadow-lg text-sm absolute bottom-5 right-4  flex gap-1 items-center'> View Project <FaArrowRight /> </a>
 
                 </div>
