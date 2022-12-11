@@ -7,12 +7,8 @@ const Header = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
 
     return (
-        <div
-
-            className=" sticky top-0  z-50 nav-color w-full">
-            <div
-
-                className="px-2 lg:pt-8 py-3 lg:pb-4  mx-auto lg:px-10">
+        <div className="bg-base-100 sticky top-0  z-50 nav-color w-full">
+            <div className="px-2 lg:pt-8 py-3 lg:pb-4  mx-auto lg:px-10">
                 <div className="relative flex items-center justify-between">
                     <NavLink
                         to='/'
@@ -114,7 +110,7 @@ const Header = () => {
                             </svg>
                         </button>
                         {isMenuOpen && (
-                            <div className="absolute top-0 left-0 w-full">
+                            <div className="absolute top-0 left-0 w-full bg-base-100">
                                 <div className="p-5 nav-color border rounded shadow-sm">
                                     <div className="flex items-center justify-between mb-4">
                                         <div>
@@ -206,12 +202,6 @@ const Header = () => {
                                                     href="https://drive.google.com/file/d/1cqyisRvLupPwGX6MBjAif3SgD-uTl7Qs/view?usp=share_link"
                                                     className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-teal-accent-400 hover:text-blue-900">Resume</a>
                                             </li>
-
-
-
-
-
-
                                         </ul>
                                     </nav>
                                 </div>

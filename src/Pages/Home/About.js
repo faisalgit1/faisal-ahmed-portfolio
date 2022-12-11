@@ -13,7 +13,7 @@ const About = () => {
             data-aos="fade-down"
             id="about"
             className="lg:mb-32 my-20 w-5/6 mx-auto"
-        ><h3 className="text-primary text-3xl font-bold text-center mr-2">
+        ><h3 className="md:text-4xl text-2xl text-gray-600 monoster-fonts font-semibold  ">
                 About Me
             </h3>
             <div className="flex  items-center border-b-2 py-2 border-accent">
